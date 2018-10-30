@@ -1,7 +1,7 @@
 
 body{
 	margin: 0;
- 	background: #505050;
+ 	background: #002147;
  	background-attachment: fixed;
  	background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -25,7 +25,6 @@ h1 {
 	font-family:'pixel',sans-serif;
 	font-size: 40px;
 	font-weight: lighter;
-	padding-top: 100px;
 	letter-spacing: 10px;
 	color: #FFFFFF;
 }
